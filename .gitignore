@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DomainObjects/bin/Debug/net6.0
+/DomainObjects/obj
+/Favorites/bin/Debug/net6.0
+/Favorites/obj
+*.user
+/ItemCatalogue/.vs
+/ItemCatalogue/bin/Debug/net6.0
+/ItemCatalogue/obj
+/Pustaka.Service/obj
+/ShoppingCart/bin/Debug/net6.0
+/ShoppingCart/obj
+/UserRegistration/bin/Debug/net6.0
+/UserRegistration/obj
+*.png
+/DomainDrivenDesign_Casestudy_1_V1.2.docx
